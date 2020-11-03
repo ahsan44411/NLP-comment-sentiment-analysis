@@ -22,7 +22,7 @@ The data used was from Kaggle (https://www.kaggle.com/c/jigsaw-multilingual-toxi
 
 # Embedding 
 
-An Enbedding layer is added to make word vectors of the comments using <strong>GloVe</strong>. 
+An Embedding layer is added to make word vectors of the comments using <strong>GloVe</strong>. 
 
 # Dataset Pre-processing
 
