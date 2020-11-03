@@ -12,7 +12,7 @@ The networks I have used are:
 
 # Dataset
 
-The data used was from Kaggle. It divided comments into six different classes
+The data used was from Kaggle (https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/data). It divided comments into six different classes
 1. toxic
 2. severe_toxic
 3. obscene
