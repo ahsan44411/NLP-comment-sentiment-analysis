@@ -31,8 +31,12 @@ For all networks the pre-processing of the dataset remain nearly the same.
 Following are the AUC scores for each networks
 
 Bidirectional LSTM: 0.985
+
 LSTM: 0.981
+
 CNN: 0.975
+
+All three gave good results but Bi-directional LSTM gives slightly better performance.
 
 # Improvement
 
