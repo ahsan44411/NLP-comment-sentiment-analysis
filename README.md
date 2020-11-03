@@ -20,6 +20,10 @@ The data used was from Kaggle (https://www.kaggle.com/c/jigsaw-multilingual-toxi
 5. insult
 6. identity_hate
 
+# Embedding 
+
+An Enbedding layer is added to make word vectors of the comments using <strong>GloVe</strong>. 
+
 # Dataset Pre-processing
 
 For all networks the pre-processing of the dataset remain nearly the same.
